@@ -1,0 +1,12 @@
+[submodule "LightlyBurning-User-Service"]
+	path = LightlyBurning-User-Service
+	url = https://github.com/2006NodeDev/LightlyBurning-User-Service.git
+[submodule "LightlyBurning-Book-Service"]
+	path = LightlyBurning-Book-Service
+	url = https://github.com/2006NodeDev/LightlyBurning-Book-Service.git
+[submodule "LightlyBurning-UI"]
+	path = LightlyBurning-UI
+	url = https://github.com/2006NodeDev/LightlyBurning-UI.git
+[submodule "LightlyBurning-Deployments"]
+	path = LightlyBurning-Deployments
+	url = https://github.com/2006NodeDev/LightlyBurning-Deployments.git
